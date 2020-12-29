@@ -4,6 +4,8 @@
 
 Este trabalho foi desenvolvido no 2º semestre letivo do ano de 2018.
 
+Universidade Federal do Pampa - UNIPAMPA
+
 Disciplina: Laboratório de Desenvolvimento de Jogos Digitais
 
 Professor: JEAN FELIPE PATIKOWSKI CHEIRAN
